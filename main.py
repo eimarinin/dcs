@@ -3,7 +3,7 @@ import time
 import csv
 from datetime import datetime
 
-
+#все клево
 class SensorEmulator:
     def __init__(self, metric_name, unit, value_range, output_file):
         self.metric_name = metric_name
